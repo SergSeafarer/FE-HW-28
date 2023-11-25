@@ -11,5 +11,5 @@ const pow = function(x, y) {
     return x * pow(x, (y-1));
   }
 }
-console.log(pow(2, 2));
+console.log(pow(2, 3));
 
